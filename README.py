@@ -2,7 +2,7 @@
 # Totally Written in python
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 
-try:
+try:py
     import os,requests,json,time,re,random,sys,uuid,string,subprocess
     from string import *
     import bs4
