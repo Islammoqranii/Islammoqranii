@@ -1,8 +1,8 @@
-# Orignally Written By YOUCEF HAFAFNI
-# Totally Written in python
+#Orignally Written By YOUCEF HAFAFNI
+#Totally Written in python
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 
-try:py
+try:y
     import os,requests,json,time,re,random,sys,uuid,string,subprocess
     from string import *
     import bs4
